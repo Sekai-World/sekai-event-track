@@ -1,9 +1,9 @@
 {
-  "time": 1602618900761,
+  "time": 1602619200762,
   "first10": [
     {
       "userId": 5164593345511424,
-      "score": 45374040,
+      "score": 45397035,
       "rank": 1,
       "isOwn": false,
       "name": "はとこ",
@@ -57,7 +57,7 @@
     },
     {
       "userId": 5119914780438534,
-      "score": 40724279,
+      "score": 40758824,
       "rank": 3,
       "isOwn": false,
       "name": "かんぱり",
@@ -111,7 +111,7 @@
     },
     {
       "userId": 5135204494979086,
-      "score": 38216561,
+      "score": 38249636,
       "rank": 5,
       "isOwn": false,
       "name": "しの",
@@ -138,7 +138,7 @@
     },
     {
       "userId": 6171739449282560,
-      "score": 37970832,
+      "score": 38037507,
       "rank": 6,
       "isOwn": false,
       "name": "夏音",
@@ -192,7 +192,7 @@
     },
     {
       "userId": 5135915236806661,
-      "score": 31691337,
+      "score": 31724587,
       "rank": 8,
       "isOwn": false,
       "name": "yee",
@@ -213,7 +213,7 @@
     },
     {
       "userId": 5473253955207172,
-      "score": 31336717,
+      "score": 31369232,
       "rank": 9,
       "isOwn": false,
       "name": "ぷみぃ",
@@ -350,7 +350,7 @@
   "rank50": [
     {
       "userId": 5925872033521674,
-      "score": 14957548,
+      "score": 14957703,
       "rank": 50,
       "isOwn": false,
       "name": "あなたが今夜見る悪夢",
@@ -379,7 +379,7 @@
   "rank100": [
     {
       "userId": 5142343573553154,
-      "score": 11200181,
+      "score": 11222714,
       "rank": 100,
       "isOwn": false,
       "name": "ほしがりす",
@@ -552,28 +552,28 @@
   ],
   "rank2000": [
     {
-      "userId": 5290653005312015,
-      "score": 1970206,
+      "userId": 5202490702512142,
+      "score": 1971621,
       "rank": 2000,
       "isOwn": false,
-      "name": "ゆにとは親指勢",
+      "name": "saku",
       "userCard": {
-        "cardId": 110,
-        "level": 60,
-        "masterRank": 5,
+        "cardId": 3,
+        "level": 50,
+        "masterRank": 0,
         "specialTrainingStatus": "done",
         "defaultImage": "special_training"
       },
       "userProfile": {
-        "userId": 5290653005312015,
-        "word": "ルカちゃまがすき ワンダショ箱推し",
-        "honorId1": 93,
-        "honorLevel1": 4,
-        "honorId2": 123,
+        "userId": 5202490702512142,
+        "word": "キャラ揃えるの難しいのね( ˘•ω•˘ )",
+        "honorId1": 45,
+        "honorLevel1": 3,
+        "honorId2": 111,
         "honorLevel2": 1,
-        "honorId3": 107,
+        "honorId3": 145,
         "honorLevel3": 1,
-        "twitterId": "LoveFallinAngel",
+        "twitterId": "",
         "profileImageType": "leader",
         "userVirtualLiveTop10Rankings": []
       }
@@ -581,169 +581,24 @@
   ],
   "rank3000": [
     {
-      "userId": 6618069527060484,
-      "score": 1539967,
+      "userId": 7047095941476361,
+      "score": 1540056,
       "rank": 3000,
       "isOwn": false,
-      "name": "らむね",
+      "name": "まみ",
       "userCard": {
-        "cardId": 88,
-        "level": 60,
-        "masterRank": 4,
-        "specialTrainingStatus": "done",
-        "defaultImage": "special_training"
-      },
-      "userProfile": {
-        "userId": 6618069527060484,
-        "word": "",
-        "honorId1": 132,
-        "honorLevel1": 1,
-        "honorId2": 107,
-        "honorLevel2": 1,
-        "honorId3": 129,
-        "honorLevel3": 1,
-        "twitterId": "",
-        "profileImageType": "leader",
-        "userVirtualLiveTop10Rankings": []
-      }
-    }
-  ],
-  "rank4000": [
-    {
-      "userId": 6425118696423424,
-      "score": 1310412,
-      "rank": 4000,
-      "isOwn": false,
-      "name": "らっど",
-      "userCard": {
-        "cardId": 109,
-        "level": 60,
-        "masterRank": 2,
-        "specialTrainingStatus": "done",
-        "defaultImage": "special_training"
-      },
-      "userProfile": {
-        "userId": 6425118696423424,
-        "word": "",
-        "honorId1": 5,
-        "honorLevel1": 2,
-        "honorId2": 145,
-        "honorLevel2": 1,
-        "honorId3": 131,
-        "honorLevel3": 1,
-        "twitterId": "",
-        "profileImageType": "leader",
-        "userVirtualLiveTop10Rankings": []
-      }
-    }
-  ],
-  "rank5000": [
-    {
-      "userId": 5254942907191304,
-      "score": 1170094,
-      "rank": 5000,
-      "isOwn": false,
-      "name": "xl_lx",
-      "userCard": {
-        "cardId": 109,
-        "level": 60,
+        "cardId": 9,
+        "level": 20,
         "masterRank": 0,
-        "specialTrainingStatus": "done",
-        "defaultImage": "special_training"
+        "specialTrainingStatus": "not_doing",
+        "defaultImage": "original"
       },
       "userProfile": {
-        "userId": 5254942907191304,
+        "userId": 7047095941476361,
         "word": "",
-        "honorId1": 81,
+        "honorId1": 77,
         "honorLevel1": 1,
-        "honorId2": 127,
-        "honorLevel2": 1,
-        "honorId3": 129,
-        "honorLevel3": 1,
-        "twitterId": "",
-        "profileImageType": "leader",
-        "userVirtualLiveTop10Rankings": []
-      }
-    }
-  ],
-  "rank10000": [
-    {
-      "userId": 5239165151645705,
-      "score": 813810,
-      "rank": 10000,
-      "isOwn": false,
-      "name": "はるあん",
-      "userCard": {
-        "cardId": 110,
-        "level": 60,
-        "masterRank": 0,
-        "specialTrainingStatus": "done",
-        "defaultImage": "special_training"
-      },
-      "userProfile": {
-        "userId": 5239165151645705,
-        "word": "",
-        "honorId1": 81,
-        "honorLevel1": 3,
-        "honorId2": 105,
-        "honorLevel2": 1,
-        "honorId3": 235,
-        "honorLevel3": 1,
-        "twitterId": "Haruan39",
-        "profileImageType": "leader",
-        "userVirtualLiveTop10Rankings": []
-      }
-    }
-  ],
-  "rank20000": [
-    {
-      "userId": 8584482458742788,
-      "score": 585989,
-      "rank": 20000,
-      "isOwn": false,
-      "name": "Bell",
-      "userCard": {
-        "cardId": 4,
-        "level": 60,
-        "masterRank": 0,
-        "specialTrainingStatus": "done",
-        "defaultImage": "special_training"
-      },
-      "userProfile": {
-        "userId": 8584482458742788,
-        "word": "ボカロ最高！",
-        "honorId1": 5,
-        "honorLevel1": 1,
-        "honorId2": 1,
-        "honorLevel2": 1,
-        "honorId3": 13,
-        "honorLevel3": 1,
-        "twitterId": "",
-        "profileImageType": "leader",
-        "userVirtualLiveTop10Rankings": []
-      }
-    }
-  ],
-  "rank30000": [
-    {
-      "userId": 8826169009160194,
-      "score": 489049,
-      "rank": 30000,
-      "isOwn": false,
-      "name": "ベル",
-      "userCard": {
-        "cardId": 109,
-        "level": 60,
-        "masterRank": 0,
-        "specialTrainingStatus": "done",
-        "defaultImage": "special_training"
-      },
-      "userProfile": {
-        "userId": 8826169009160194,
-        "word": "グラデ髪がすき",
-        "honorId1": 133,
-        "honorLevel1": 1,
-        "honorId2": 49,
+        "honorId2": 73,
         "honorLevel2": 1,
         "honorId3": 5,
         "honorLevel3": 1,
@@ -753,30 +608,175 @@
       }
     }
   ],
-  "rank40000": [
+  "rank4000": [
     {
-      "userId": 5186149589024781,
-      "score": 427998,
-      "rank": 40000,
+      "userId": 5144025103908874,
+      "score": 1310730,
+      "rank": 4000,
       "isOwn": false,
-      "name": "たか",
+      "name": "フンコロガシ",
       "userCard": {
-        "cardId": 87,
+        "cardId": 109,
+        "level": 60,
+        "masterRank": 0,
+        "specialTrainingStatus": "done",
+        "defaultImage": "special_training"
+      },
+      "userProfile": {
+        "userId": 5144025103908874,
+        "word": "ガチャの引きがヤバい。（親指勢",
+        "honorId1": 138,
+        "honorLevel1": 1,
+        "honorId2": 81,
+        "honorLevel2": 1,
+        "honorId3": 5,
+        "honorLevel3": 1,
+        "twitterId": "",
+        "profileImageType": "leader",
+        "userVirtualLiveTop10Rankings": []
+      }
+    }
+  ],
+  "rank5000": [
+    {
+      "userId": 6041775068684300,
+      "score": 1170764,
+      "rank": 5000,
+      "isOwn": false,
+      "name": "CqNon",
+      "userCard": {
+        "cardId": 4,
+        "level": 60,
+        "masterRank": 0,
+        "specialTrainingStatus": "done",
+        "defaultImage": "special_training"
+      },
+      "userProfile": {
+        "userId": 6041775068684300,
+        "word": "",
+        "honorId1": 114,
+        "honorLevel1": 1,
+        "honorId2": 81,
+        "honorLevel2": 1,
+        "honorId3": 1,
+        "honorLevel3": 2,
+        "twitterId": "",
+        "profileImageType": "leader",
+        "userVirtualLiveTop10Rankings": []
+      }
+    }
+  ],
+  "rank10000": [
+    {
+      "userId": 8837587574329348,
+      "score": 813921,
+      "rank": 10000,
+      "isOwn": false,
+      "name": "紗々つけ麺",
+      "userCard": {
+        "cardId": 91,
         "level": 50,
         "masterRank": 0,
         "specialTrainingStatus": "done",
         "defaultImage": "special_training"
       },
       "userProfile": {
-        "userId": 5186149589024781,
-        "word": "よろん、どろん",
-        "honorId1": 73,
+        "userId": 8837587574329348,
+        "word": "",
+        "honorId1": 5,
+        "honorLevel1": 1,
+        "honorId2": 127,
+        "honorLevel2": 1,
+        "honorId3": 105,
+        "honorLevel3": 1,
+        "twitterId": "",
+        "profileImageType": "leader",
+        "userVirtualLiveTop10Rankings": []
+      }
+    }
+  ],
+  "rank20000": [
+    {
+      "userId": 5348985296896011,
+      "score": 586096,
+      "rank": 20000,
+      "isOwn": false,
+      "name": "レミュー",
+      "userCard": {
+        "cardId": 55,
+        "level": 40,
+        "masterRank": 5,
+        "specialTrainingStatus": "done",
+        "defaultImage": "special_training"
+      },
+      "userProfile": {
+        "userId": 5348985296896011,
+        "word": "",
+        "honorId1": 81,
+        "honorLevel1": 5,
+        "honorId2": 140,
+        "honorLevel2": 1,
+        "honorId3": 142,
+        "honorLevel3": 1,
+        "twitterId": "",
+        "profileImageType": "leader",
+        "userVirtualLiveTop10Rankings": []
+      }
+    }
+  ],
+  "rank30000": [
+    {
+      "userId": 5450967336661007,
+      "score": 489160,
+      "rank": 30000,
+      "isOwn": false,
+      "name": "せかいの住民",
+      "userCard": {
+        "cardId": 4,
+        "level": 60,
+        "masterRank": 0,
+        "specialTrainingStatus": "done",
+        "defaultImage": "original"
+      },
+      "userProfile": {
+        "userId": 5450967336661007,
+        "word": "",
+        "honorId1": 133,
+        "honorLevel1": 1,
+        "honorId2": 105,
+        "honorLevel2": 1,
+        "honorId3": 130,
+        "honorLevel3": 1,
+        "twitterId": "",
+        "profileImageType": "leader",
+        "userVirtualLiveTop10Rankings": []
+      }
+    }
+  ],
+  "rank40000": [
+    {
+      "userId": 8543032702271503,
+      "score": 428037,
+      "rank": 40000,
+      "isOwn": false,
+      "name": "岩山直太朗",
+      "userCard": {
+        "cardId": 111,
+        "level": 60,
+        "masterRank": 0,
+        "specialTrainingStatus": "done",
+        "defaultImage": "special_training"
+      },
+      "userProfile": {
+        "userId": 8543032702271503,
+        "word": "",
+        "honorId1": 13,
         "honorLevel1": 1,
         "honorId2": 69,
         "honorLevel2": 1,
-        "honorId3": 77,
+        "honorId3": 73,
         "honorLevel3": 1,
-        "twitterId": "takadban",
+        "twitterId": "",
         "profileImageType": "leader",
         "userVirtualLiveTop10Rankings": []
       }
@@ -784,25 +784,27 @@
   ],
   "rank50000": [
     {
-      "userId": 7701086462861319,
-      "score": 384155,
+      "userId": 5349688710598665,
+      "score": 384240,
       "rank": 50000,
       "isOwn": false,
-      "name": "ちまき",
+      "name": "leaf",
       "userCard": {
-        "cardId": 92,
+        "cardId": 4,
         "level": 60,
         "masterRank": 0,
         "specialTrainingStatus": "done",
-        "defaultImage": "original"
+        "defaultImage": "special_training"
       },
       "userProfile": {
-        "userId": 7701086462861319,
-        "word": "",
-        "honorId1": 127,
+        "userId": 5349688710598665,
+        "word": "kokodayo",
+        "honorId1": 81,
         "honorLevel1": 1,
         "honorId2": 105,
         "honorLevel2": 1,
+        "honorId3": 130,
+        "honorLevel3": 1,
         "twitterId": "",
         "profileImageType": "leader",
         "userVirtualLiveTop10Rankings": []
@@ -811,26 +813,26 @@
   ],
   "rank100000": [
     {
-      "userId": 5413869040730114,
-      "score": 262802,
+      "userId": 9182582332227590,
+      "score": 262843,
       "rank": 100000,
       "isOwn": false,
-      "name": "さかまき",
+      "name": "4+7",
       "userCard": {
-        "cardId": 107,
-        "level": 40,
-        "masterRank": 5,
+        "cardId": 92,
+        "level": 50,
+        "masterRank": 0,
         "specialTrainingStatus": "not_doing",
         "defaultImage": "original"
       },
       "userProfile": {
-        "userId": 5413869040730114,
+        "userId": 9182582332227590,
         "word": "",
-        "honorId1": 85,
+        "honorId1": 105,
         "honorLevel1": 1,
-        "honorId2": 89,
+        "honorId2": 127,
         "honorLevel2": 1,
-        "honorId3": 81,
+        "honorId3": 129,
         "honorLevel3": 1,
         "twitterId": "",
         "profileImageType": "leader",
