@@ -1,5 +1,5 @@
 {
-  "time": 1602654900754,
+  "time": 1602655200735,
   "first10": [
     {
       "userId": 5164593345511424,
@@ -30,7 +30,7 @@
     },
     {
       "userId": 5141807818596355,
-      "score": 43615119,
+      "score": 43671679,
       "rank": 2,
       "isOwn": false,
       "name": "きゅあにな☆",
@@ -84,7 +84,7 @@
     },
     {
       "userId": 6171739449282560,
-      "score": 41414097,
+      "score": 41446052,
       "rank": 4,
       "isOwn": false,
       "name": "夏音",
@@ -240,7 +240,7 @@
     },
     {
       "userId": 6510064974852106,
-      "score": 30708211,
+      "score": 30735406,
       "rank": 10,
       "isOwn": false,
       "name": "ありす",
@@ -523,28 +523,28 @@
   ],
   "rank1000": [
     {
-      "userId": 5158082305077252,
-      "score": 3351827,
+      "userId": 5971879014064136,
+      "score": 3352582,
       "rank": 1000,
       "isOwn": false,
-      "name": "凪",
+      "name": "せにゃまる",
       "userCard": {
-        "cardId": 31,
+        "cardId": 99,
         "level": 50,
-        "masterRank": 2,
+        "masterRank": 5,
         "specialTrainingStatus": "done",
-        "defaultImage": "original"
+        "defaultImage": "special_training"
       },
       "userProfile": {
-        "userId": 5158082305077252,
+        "userId": 5971879014064136,
         "word": "",
-        "honorId1": 235,
+        "honorId1": 49,
         "honorLevel1": 1,
-        "honorId2": 29,
-        "honorLevel2": 2,
-        "honorId3": 9,
+        "honorId2": 130,
+        "honorLevel2": 1,
+        "honorId3": 105,
         "honorLevel3": 1,
-        "twitterId": "Alkn",
+        "twitterId": "",
         "profileImageType": "leader",
         "userVirtualLiveTop10Rankings": []
       }
@@ -552,26 +552,26 @@
   ],
   "rank2000": [
     {
-      "userId": 5159789495623682,
-      "score": 2060531,
+      "userId": 8937585171415055,
+      "score": 2060865,
       "rank": 2000,
       "isOwn": false,
-      "name": "のありす",
+      "name": "ビオ",
       "userCard": {
-        "cardId": 75,
-        "level": 50,
-        "masterRank": 5,
+        "cardId": 111,
+        "level": 60,
+        "masterRank": 1,
         "specialTrainingStatus": "done",
-        "defaultImage": "original"
+        "defaultImage": "special_training"
       },
       "userProfile": {
-        "userId": 5159789495623682,
-        "word": "よろしくお願いシンデレラ！",
-        "honorId1": 133,
-        "honorLevel1": 1,
-        "honorId2": 131,
+        "userId": 8937585171415055,
+        "word": "",
+        "honorId1": 13,
+        "honorLevel1": 2,
+        "honorId2": 5,
         "honorLevel2": 1,
-        "honorId3": 145,
+        "honorId3": 1,
         "honorLevel3": 1,
         "twitterId": "",
         "profileImageType": "leader",
@@ -581,26 +581,26 @@
   ],
   "rank3000": [
     {
-      "userId": 6351005269295115,
-      "score": 1603369,
+      "userId": 5143648484261889,
+      "score": 1603508,
       "rank": 3000,
       "isOwn": false,
-      "name": "Piyotaro",
+      "name": "リオット",
       "userCard": {
-        "cardId": 109,
-        "level": 60,
+        "cardId": 3,
+        "level": 50,
         "masterRank": 0,
         "specialTrainingStatus": "done",
         "defaultImage": "special_training"
       },
       "userProfile": {
-        "userId": 6351005269295115,
-        "word": "",
-        "honorId1": 57,
-        "honorLevel1": 3,
-        "honorId2": 49,
+        "userId": 5143648484261889,
+        "word": "宜しくお願いします！",
+        "honorId1": 105,
+        "honorLevel1": 1,
+        "honorId2": 138,
         "honorLevel2": 1,
-        "honorId3": 53,
+        "honorId3": 127,
         "honorLevel3": 1,
         "twitterId": "",
         "profileImageType": "leader",
@@ -610,28 +610,28 @@
   ],
   "rank4000": [
     {
-      "userId": 5524817260797967,
-      "score": 1361588,
+      "userId": 5252378630799363,
+      "score": 1361808,
       "rank": 4000,
       "isOwn": false,
-      "name": "おひ",
+      "name": "ミルク",
       "userCard": {
-        "cardId": 15,
-        "level": 40,
+        "cardId": 3,
+        "level": 50,
         "masterRank": 0,
-        "specialTrainingStatus": "not_doing",
-        "defaultImage": "original"
+        "specialTrainingStatus": "done",
+        "defaultImage": "special_training"
       },
       "userProfile": {
-        "userId": 5524817260797967,
-        "word": "ルカイトと天馬兄妹推し",
-        "honorId1": 93,
+        "userId": 5252378630799363,
+        "word": "(_･ω･)_ﾊﾞﾊﾞｧﾝ！！",
+        "honorId1": 81,
         "honorLevel1": 2,
-        "honorId2": 49,
-        "honorLevel2": 2,
-        "honorId3": 5,
-        "honorLevel3": 2,
-        "twitterId": "csoh6m",
+        "honorId2": 138,
+        "honorLevel2": 1,
+        "honorId3": 105,
+        "honorLevel3": 1,
+        "twitterId": "",
         "profileImageType": "leader",
         "userVirtualLiveTop10Rankings": []
       }
@@ -639,40 +639,11 @@
   ],
   "rank5000": [
     {
-      "userId": 5188086141059075,
-      "score": 1221830,
+      "userId": 8392196341055502,
+      "score": 1223275,
       "rank": 5000,
       "isOwn": false,
-      "name": "sanuki(謎",
-      "userCard": {
-        "cardId": 110,
-        "level": 60,
-        "masterRank": 0,
-        "specialTrainingStatus": "done",
-        "defaultImage": "special_training"
-      },
-      "userProfile": {
-        "userId": 5188086141059075,
-        "word": "",
-        "honorId1": 123,
-        "honorLevel1": 1,
-        "honorId2": 85,
-        "honorLevel2": 1,
-        "honorId3": 81,
-        "honorLevel3": 3,
-        "twitterId": "",
-        "profileImageType": "leader",
-        "userVirtualLiveTop10Rankings": []
-      }
-    }
-  ],
-  "rank10000": [
-    {
-      "userId": 5195887336906762,
-      "score": 859191,
-      "rank": 10000,
-      "isOwn": false,
-      "name": "dedenne",
+      "name": "Leo/nids",
       "userCard": {
         "cardId": 109,
         "level": 60,
@@ -681,11 +652,40 @@
         "defaultImage": "special_training"
       },
       "userProfile": {
-        "userId": 5195887336906762,
+        "userId": 8392196341055502,
         "word": "",
-        "honorId1": 134,
+        "honorId1": 105,
         "honorLevel1": 1,
-        "honorId2": 105,
+        "honorId2": 5,
+        "honorLevel2": 1,
+        "honorId3": 73,
+        "honorLevel3": 1,
+        "twitterId": "",
+        "profileImageType": "leader",
+        "userVirtualLiveTop10Rankings": []
+      }
+    }
+  ],
+  "rank10000": [
+    {
+      "userId": 8429657217855502,
+      "score": 859533,
+      "rank": 10000,
+      "isOwn": false,
+      "name": "わんわん",
+      "userCard": {
+        "cardId": 109,
+        "level": 60,
+        "masterRank": 0,
+        "specialTrainingStatus": "done",
+        "defaultImage": "special_training"
+      },
+      "userProfile": {
+        "userId": 8429657217855502,
+        "word": "",
+        "honorId1": 5,
+        "honorLevel1": 1,
+        "honorId2": 133,
         "honorLevel2": 1,
         "honorId3": 127,
         "honorLevel3": 1,
@@ -697,55 +697,26 @@
   ],
   "rank20000": [
     {
-      "userId": 7124106025725966,
-      "score": 620833,
+      "userId": 5847403358396426,
+      "score": 621037,
       "rank": 20000,
       "isOwn": false,
-      "name": "苍崎",
+      "name": "Vorona",
       "userCard": {
-        "cardId": 109,
-        "level": 60,
-        "masterRank": 0,
+        "cardId": 79,
+        "level": 50,
+        "masterRank": 5,
         "specialTrainingStatus": "done",
         "defaultImage": "special_training"
       },
       "userProfile": {
-        "userId": 7124106025725966,
+        "userId": 5847403358396426,
         "word": "",
-        "honorId1": 105,
+        "honorId1": 37,
         "honorLevel1": 1,
-        "honorId2": 81,
+        "honorId2": 77,
         "honorLevel2": 1,
-        "honorId3": 89,
-        "honorLevel3": 1,
-        "twitterId": "cangqiceng",
-        "profileImageType": "leader",
-        "userVirtualLiveTop10Rankings": []
-      }
-    }
-  ],
-  "rank30000": [
-    {
-      "userId": 5272213636894724,
-      "score": 518420,
-      "rank": 30000,
-      "isOwn": false,
-      "name": "逆刃刀",
-      "userCard": {
-        "cardId": 51,
-        "level": 50,
-        "masterRank": 0,
-        "specialTrainingStatus": "done",
-        "defaultImage": "original"
-      },
-      "userProfile": {
-        "userId": 5272213636894724,
-        "word": "･*･:≡(　ε:) よろしく",
-        "honorId1": 81,
-        "honorLevel1": 1,
-        "honorId2": 61,
-        "honorLevel2": 1,
-        "honorId3": 57,
+        "honorId3": 129,
         "honorLevel3": 1,
         "twitterId": "",
         "profileImageType": "leader",
@@ -753,28 +724,55 @@
       }
     }
   ],
+  "rank30000": [
+    {
+      "userId": 5695509809606660,
+      "score": 518752,
+      "rank": 30000,
+      "isOwn": false,
+      "name": "うんしゅ",
+      "userCard": {
+        "cardId": 4,
+        "level": 60,
+        "masterRank": 1,
+        "specialTrainingStatus": "done",
+        "defaultImage": "special_training"
+      },
+      "userProfile": {
+        "userId": 5695509809606660,
+        "word": "ハニワ好きです!",
+        "honorId1": 105,
+        "honorLevel1": 1,
+        "honorId2": 127,
+        "honorLevel2": 1,
+        "honorId3": 235,
+        "honorLevel3": 1,
+        "twitterId": "unsung9369",
+        "profileImageType": "leader",
+        "userVirtualLiveTop10Rankings": []
+      }
+    }
+  ],
   "rank40000": [
     {
-      "userId": 5276958162944010,
-      "score": 453130,
+      "userId": 5989021210226702,
+      "score": 453392,
       "rank": 40000,
       "isOwn": false,
-      "name": "オルレアン",
+      "name": "みけ",
       "userCard": {
-        "cardId": 88,
-        "level": 60,
+        "cardId": 103,
+        "level": 50,
         "masterRank": 0,
         "specialTrainingStatus": "done",
         "defaultImage": "special_training"
       },
       "userProfile": {
-        "userId": 5276958162944010,
-        "word": "おるる",
-        "honorId1": 81,
-        "honorLevel1": 2,
-        "honorId2": 25,
-        "honorLevel2": 1,
-        "honorId3": 77,
+        "userId": 5989021210226702,
+        "word": "",
+        "honorId2": 89,
+        "honorLevel2": 2,
+        "honorId3": 85,
         "honorLevel3": 1,
         "twitterId": "",
         "profileImageType": "leader",
@@ -784,26 +782,26 @@
   ],
   "rank50000": [
     {
-      "userId": 7086154508230665,
-      "score": 405898,
+      "userId": 6627467150307339,
+      "score": 406086,
       "rank": 50000,
       "isOwn": false,
-      "name": "ボノ",
+      "name": "みやも",
       "userCard": {
-        "cardId": 92,
-        "level": 55,
+        "cardId": 110,
+        "level": 57,
         "masterRank": 0,
         "specialTrainingStatus": "done",
         "defaultImage": "special_training"
       },
       "userProfile": {
-        "userId": 7086154508230665,
+        "userId": 6627467150307339,
         "word": "",
-        "honorId1": 127,
+        "honorId1": 101,
         "honorLevel1": 1,
-        "honorId2": 129,
+        "honorId2": 130,
         "honorLevel2": 1,
-        "honorId3": 69,
+        "honorId3": 89,
         "honorLevel3": 1,
         "twitterId": "",
         "profileImageType": "leader",
@@ -813,26 +811,26 @@
   ],
   "rank100000": [
     {
-      "userId": 5436491485130753,
-      "score": 276186,
+      "userId": 5368093337718786,
+      "score": 276286,
       "rank": 100000,
       "isOwn": false,
-      "name": "あきとも",
+      "name": "セカイの住人",
       "userCard": {
-        "cardId": 88,
+        "cardId": 4,
         "level": 60,
-        "masterRank": 1,
+        "masterRank": 0,
         "specialTrainingStatus": "done",
         "defaultImage": "special_training"
       },
       "userProfile": {
-        "userId": 5436491485130753,
-        "word": "",
-        "honorId1": 81,
+        "userId": 5368093337718786,
+        "word": "通知は敵",
+        "honorId1": 65,
         "honorLevel1": 1,
-        "honorId2": 105,
+        "honorId2": 107,
         "honorLevel2": 1,
-        "honorId3": 129,
+        "honorId3": 133,
         "honorLevel3": 1,
         "twitterId": "",
         "profileImageType": "leader",
