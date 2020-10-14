@@ -1,5 +1,5 @@
 {
-  "time": 1602643500747,
+  "time": 1602643800766,
   "first10": [
     {
       "userId": 5164593345511424,
@@ -57,7 +57,7 @@
     },
     {
       "userId": 5141807818596355,
-      "score": 42112464,
+      "score": 42147009,
       "rank": 3,
       "isOwn": false,
       "name": "きゅあにな☆",
@@ -111,7 +111,7 @@
     },
     {
       "userId": 6171739449282560,
-      "score": 39955997,
+      "score": 39980462,
       "rank": 5,
       "isOwn": false,
       "name": "夏音",
@@ -269,7 +269,7 @@
   "rank20": [
     {
       "userId": 5135381947990022,
-      "score": 21936431,
+      "score": 21969506,
       "rank": 20,
       "isOwn": false,
       "name": "なまこ",
@@ -356,7 +356,7 @@
   "rank50": [
     {
       "userId": 5198297505677318,
-      "score": 15342334,
+      "score": 15389372,
       "rank": 50,
       "isOwn": false,
       "name": "REUNA",
@@ -385,7 +385,7 @@
   "rank100": [
     {
       "userId": 5200349527359498,
-      "score": 11572386,
+      "score": 11593106,
       "rank": 100,
       "isOwn": false,
       "name": "くろ@96位",
@@ -587,28 +587,24 @@
   ],
   "rank3000": [
     {
-      "userId": 5429022565711886,
-      "score": 1576475,
+      "userId": 5168201122193411,
+      "score": 1576665,
       "rank": 3000,
       "isOwn": false,
-      "name": "ましゅまろ",
+      "name": "セカイの住人",
       "userCard": {
-        "cardId": 3,
-        "level": 50,
+        "cardId": 88,
+        "level": 60,
         "masterRank": 0,
         "specialTrainingStatus": "done",
         "defaultImage": "special_training"
       },
       "userProfile": {
-        "userId": 5429022565711886,
+        "userId": 5168201122193411,
         "word": "",
-        "honorId1": 65,
-        "honorLevel1": 2,
-        "honorId2": 37,
-        "honorLevel2": 1,
-        "honorId3": 13,
-        "honorLevel3": 1,
-        "twitterId": "masyumaro193",
+        "honorId1": 81,
+        "honorLevel1": 4,
+        "twitterId": "",
         "profileImageType": "leader",
         "userVirtualLiveTop10Rankings": []
       }
@@ -616,24 +612,28 @@
   ],
   "rank4000": [
     {
-      "userId": 5134937141420041,
-      "score": 1341628,
+      "userId": 7346771005247497,
+      "score": 1342302,
       "rank": 4000,
       "isOwn": false,
-      "name": "サクマ",
+      "name": "藍くん",
       "userCard": {
-        "cardId": 11,
-        "level": 50,
+        "cardId": 110,
+        "level": 23,
         "masterRank": 0,
-        "specialTrainingStatus": "done",
-        "defaultImage": "special_training"
+        "specialTrainingStatus": "not_doing",
+        "defaultImage": "original"
       },
       "userProfile": {
-        "userId": 5134937141420041,
+        "userId": 7346771005247497,
         "word": "",
-        "honorId1": 235,
+        "honorId1": 118,
         "honorLevel1": 1,
-        "twitterId": "iReZ6Zfpp4vpj0y",
+        "honorId2": 93,
+        "honorLevel2": 2,
+        "honorId3": 1,
+        "honorLevel3": 2,
+        "twitterId": "",
         "profileImageType": "leader",
         "userVirtualLiveTop10Rankings": []
       }
@@ -641,40 +641,11 @@
   ],
   "rank5000": [
     {
-      "userId": 5643033383768079,
-      "score": 1201999,
+      "userId": 5207759910481932,
+      "score": 1202108,
       "rank": 5000,
       "isOwn": false,
-      "name": "桃紺♪",
-      "userCard": {
-        "cardId": 51,
-        "level": 50,
-        "masterRank": 0,
-        "specialTrainingStatus": "done",
-        "defaultImage": "special_training"
-      },
-      "userProfile": {
-        "userId": 5643033383768079,
-        "word": "MOREMOREJUMP箱推し♪みんな可愛いぃ♪( ´▽｀)",
-        "honorId1": 17,
-        "honorLevel1": 2,
-        "honorId2": 93,
-        "honorLevel2": 1,
-        "honorId3": 29,
-        "honorLevel3": 1,
-        "twitterId": "meatlovegarupa",
-        "profileImageType": "leader",
-        "userVirtualLiveTop10Rankings": []
-      }
-    }
-  ],
-  "rank10000": [
-    {
-      "userId": 5229148893560836,
-      "score": 840958,
-      "rank": 10000,
-      "isOwn": false,
-      "name": "さくら",
+      "name": "まる",
       "userCard": {
         "cardId": 109,
         "level": 60,
@@ -683,14 +654,37 @@
         "defaultImage": "special_training"
       },
       "userProfile": {
-        "userId": 5229148893560836,
+        "userId": 5207759910481932,
         "word": "",
-        "honorId1": 138,
+        "honorId1": 127,
         "honorLevel1": 1,
-        "honorId2": 107,
+        "honorId2": 129,
         "honorLevel2": 1,
         "honorId3": 105,
         "honorLevel3": 1,
+        "twitterId": "Syanmaru2525",
+        "profileImageType": "leader",
+        "userVirtualLiveTop10Rankings": []
+      }
+    }
+  ],
+  "rank10000": [
+    {
+      "userId": 5196455795404806,
+      "score": 841219,
+      "rank": 10000,
+      "isOwn": false,
+      "name": "自分に合ったレベルで",
+      "userCard": {
+        "cardId": 3,
+        "level": 50,
+        "masterRank": 2,
+        "specialTrainingStatus": "done",
+        "defaultImage": "original"
+      },
+      "userProfile": {
+        "userId": 5196455795404806,
+        "word": "たまにノリのいい人がいてほっこりする",
         "twitterId": "",
         "profileImageType": "leader",
         "userVirtualLiveTop10Rankings": []
@@ -699,22 +693,28 @@
   ],
   "rank20000": [
     {
-      "userId": 9246343914835976,
-      "score": 606195,
+      "userId": 5972107972956165,
+      "score": 606542,
       "rank": 20000,
       "isOwn": false,
-      "name": "ぷるこらまん©︎",
+      "name": "dong tung",
       "userCard": {
-        "cardId": 96,
-        "level": 60,
+        "cardId": 111,
+        "level": 33,
         "masterRank": 0,
-        "specialTrainingStatus": "done",
-        "defaultImage": "special_training"
+        "specialTrainingStatus": "not_doing",
+        "defaultImage": "original"
       },
       "userProfile": {
-        "userId": 9246343914835976,
-        "word": "遊戯王　マリカ　スマブラ ",
-        "twitterId": "purupon",
+        "userId": 5972107972956165,
+        "word": "",
+        "honorId1": 93,
+        "honorLevel1": 1,
+        "honorId2": 81,
+        "honorLevel2": 1,
+        "honorId3": 77,
+        "honorLevel3": 1,
+        "twitterId": "",
         "profileImageType": "leader",
         "userVirtualLiveTop10Rankings": []
       }
@@ -722,27 +722,25 @@
   ],
   "rank30000": [
     {
-      "userId": 7788299796574208,
-      "score": 507020,
+      "userId": 7839465691897867,
+      "score": 507172,
       "rank": 30000,
       "isOwn": false,
-      "name": "Noon",
+      "name": "伊央",
       "userCard": {
-        "cardId": 88,
-        "level": 60,
+        "cardId": 7,
+        "level": 40,
         "masterRank": 0,
-        "specialTrainingStatus": "done",
-        "defaultImage": "special_training"
+        "specialTrainingStatus": "not_doing",
+        "defaultImage": "original"
       },
       "userProfile": {
-        "userId": 7788299796574208,
-        "word": "ふへへ",
-        "honorId1": 138,
+        "userId": 7839465691897867,
+        "word": "",
+        "honorId1": 85,
         "honorLevel1": 1,
         "honorId2": 105,
         "honorLevel2": 1,
-        "honorId3": 81,
-        "honorLevel3": 1,
         "twitterId": "",
         "profileImageType": "leader",
         "userVirtualLiveTop10Rankings": []
@@ -751,26 +749,26 @@
   ],
   "rank40000": [
     {
-      "userId": 5201308232151055,
-      "score": 442764,
+      "userId": 7300308464537604,
+      "score": 442999,
       "rank": 40000,
       "isOwn": false,
-      "name": "エカ",
+      "name": "Galaxy",
       "userCard": {
-        "cardId": 88,
-        "level": 60,
+        "cardId": 109,
+        "level": 50,
         "masterRank": 0,
-        "specialTrainingStatus": "done",
-        "defaultImage": "special_training"
+        "specialTrainingStatus": "not_doing",
+        "defaultImage": "original"
       },
       "userProfile": {
-        "userId": 5201308232151055,
+        "userId": 7300308464537604,
         "word": "",
         "honorId1": 81,
-        "honorLevel1": 2,
+        "honorLevel1": 1,
         "honorId2": 105,
         "honorLevel2": 1,
-        "honorId3": 129,
+        "honorId3": 133,
         "honorLevel3": 1,
         "twitterId": "",
         "profileImageType": "leader",
@@ -780,26 +778,28 @@
   ],
   "rank50000": [
     {
-      "userId": 5471635025661959,
-      "score": 396926,
+      "userId": 5137703150972942,
+      "score": 397114,
       "rank": 50000,
       "isOwn": false,
-      "name": "くるる",
+      "name": "雨宮蓮.ﾟ+..ﾟ+",
       "userCard": {
-        "cardId": 88,
-        "level": 60,
-        "masterRank": 0,
-        "specialTrainingStatus": "done",
-        "defaultImage": "special_training"
+        "cardId": 61,
+        "level": 20,
+        "masterRank": 5,
+        "specialTrainingStatus": "not_doing",
+        "defaultImage": "original"
       },
       "userProfile": {
-        "userId": 5471635025661959,
-        "word": "たのしもう",
-        "honorId1": 130,
-        "honorLevel1": 1,
-        "honorId2": 73,
-        "honorLevel2": 1,
-        "twitterId": "",
+        "userId": 5137703150972942,
+        "word": "レン廃、類くん推し     第2回CBT上級参加者",
+        "honorId1": 61,
+        "honorLevel1": 2,
+        "honorId2": 89,
+        "honorLevel2": 2,
+        "honorId3": 218,
+        "honorLevel3": 1,
+        "twitterId": "sakurap5",
         "profileImageType": "leader",
         "userVirtualLiveTop10Rankings": []
       }
@@ -807,26 +807,26 @@
   ],
   "rank100000": [
     {
-      "userId": 5161312271331338,
-      "score": 270849,
+      "userId": 5153080845123591,
+      "score": 270930,
       "rank": 100000,
       "isOwn": false,
-      "name": "ぶどう",
+      "name": "しし",
       "userCard": {
-        "cardId": 67,
-        "level": 50,
-        "masterRank": 5,
+        "cardId": 109,
+        "level": 59,
+        "masterRank": 0,
         "specialTrainingStatus": "done",
         "defaultImage": "special_training"
       },
       "userProfile": {
-        "userId": 5161312271331338,
+        "userId": 5153080845123591,
         "word": "",
-        "honorId1": 133,
+        "honorId1": 33,
         "honorLevel1": 1,
-        "honorId2": 21,
+        "honorId2": 5,
         "honorLevel2": 1,
-        "honorId3": 65,
+        "honorId3": 77,
         "honorLevel3": 1,
         "twitterId": "",
         "profileImageType": "leader",
