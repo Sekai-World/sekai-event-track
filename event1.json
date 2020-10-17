@@ -1,9 +1,9 @@
 {
-  "time": 1602928200761,
+  "time": 1602928500750,
   "first10": [
     {
       "userId": 5164593345511424,
-      "score": 77750895,
+      "score": 77821070,
       "rank": 1,
       "isOwn": false,
       "name": "はとこ",
@@ -30,7 +30,7 @@
     },
     {
       "userId": 5119914780438534,
-      "score": 75902308,
+      "score": 75931148,
       "rank": 2,
       "isOwn": false,
       "name": "かんぱり",
@@ -84,7 +84,7 @@
     },
     {
       "userId": 6171739449282560,
-      "score": 72468374,
+      "score": 72502184,
       "rank": 4,
       "isOwn": false,
       "name": "夏音",
@@ -186,7 +186,7 @@
     },
     {
       "userId": 6510064974852106,
-      "score": 55528367,
+      "score": 55586117,
       "rank": 8,
       "isOwn": false,
       "name": "実家の安心感",
@@ -213,7 +213,7 @@
     },
     {
       "userId": 5135915236806661,
-      "score": 54865674,
+      "score": 54895930,
       "rank": 9,
       "isOwn": false,
       "name": "ルーム開放",
@@ -240,7 +240,7 @@
     },
     {
       "userId": 5319542440161282,
-      "score": 54053331,
+      "score": 54086931,
       "rank": 10,
       "isOwn": false,
       "name": "るー",
@@ -294,7 +294,7 @@
   "rank30": [
     {
       "userId": 5155652641533964,
-      "score": 34765317,
+      "score": 34794017,
       "rank": 30,
       "isOwn": false,
       "name": "のわふ",
@@ -323,7 +323,7 @@
   "rank40": [
     {
       "userId": 5216321994940421,
-      "score": 29369905,
+      "score": 29400145,
       "rank": 40,
       "isOwn": false,
       "name": "オルグ",
@@ -352,7 +352,7 @@
   "rank50": [
     {
       "userId": 5219509317697542,
-      "score": 27700364,
+      "score": 27701522,
       "rank": 50,
       "isOwn": false,
       "name": "ゆらん",
@@ -374,69 +374,11 @@
   ],
   "rank100": [
     {
-      "userId": 5120527606448137,
-      "score": 20949071,
+      "userId": 5240458947792908,
+      "score": 20960996,
       "rank": 100,
       "isOwn": false,
-      "name": "うつせみ",
-      "userCard": {
-        "cardId": 109,
-        "level": 60,
-        "masterRank": 3,
-        "specialTrainingStatus": "done",
-        "defaultImage": "special_training"
-      },
-      "userProfile": {
-        "userId": 5120527606448137,
-        "word": "よろしくお願いします♪",
-        "honorId1": 108,
-        "honorLevel1": 1,
-        "honorId2": 139,
-        "honorLevel2": 1,
-        "honorId3": 81,
-        "honorLevel3": 3,
-        "twitterId": "Utusemi3939",
-        "profileImageType": "leader",
-        "userVirtualLiveTop10Rankings": []
-      }
-    }
-  ],
-  "rank200": [
-    {
-      "userId": 5258666064441344,
-      "score": 11438145,
-      "rank": 200,
-      "isOwn": false,
-      "name": "ドル",
-      "userCard": {
-        "cardId": 111,
-        "level": 60,
-        "masterRank": 0,
-        "specialTrainingStatus": "done",
-        "defaultImage": "special_training"
-      },
-      "userProfile": {
-        "userId": 5258666064441344,
-        "word": "",
-        "honorId1": 5,
-        "honorLevel1": 4,
-        "honorId2": 105,
-        "honorLevel2": 1,
-        "honorId3": 108,
-        "honorLevel3": 1,
-        "twitterId": "",
-        "profileImageType": "leader",
-        "userVirtualLiveTop10Rankings": []
-      }
-    }
-  ],
-  "rank300": [
-    {
-      "userId": 5558535526400000,
-      "score": 9462954,
-      "rank": 300,
-      "isOwn": false,
-      "name": "かみかみた＠お嬢推",
+      "name": "リズっち",
       "userCard": {
         "cardId": 109,
         "level": 60,
@@ -445,15 +387,73 @@
         "defaultImage": "special_training"
       },
       "userProfile": {
-        "userId": 5558535526400000,
-        "word": "メルトやりすぎておかしくなりそう",
+        "userId": 5240458947792908,
+        "word": "咲希ちゃん(⑉• •⑉)",
         "honorId1": 5,
-        "honorLevel1": 3,
-        "honorId2": 49,
+        "honorLevel1": 4,
+        "honorId2": 142,
         "honorLevel2": 1,
-        "honorId3": 33,
+        "honorId3": 123,
         "honorLevel3": 1,
-        "twitterId": "vDvZTKBsVBSeDa3",
+        "twitterId": "yutasoccer4",
+        "profileImageType": "leader",
+        "userVirtualLiveTop10Rankings": []
+      }
+    }
+  ],
+  "rank200": [
+    {
+      "userId": 5561466623885313,
+      "score": 11455092,
+      "rank": 200,
+      "isOwn": false,
+      "name": "Ren",
+      "userCard": {
+        "cardId": 111,
+        "level": 60,
+        "masterRank": 0,
+        "specialTrainingStatus": "done",
+        "defaultImage": "special_training"
+      },
+      "userProfile": {
+        "userId": 5561466623885313,
+        "word": "下手です。対よろ。",
+        "honorId1": 108,
+        "honorLevel1": 1,
+        "honorId2": 17,
+        "honorLevel2": 3,
+        "honorId3": 114,
+        "honorLevel3": 1,
+        "twitterId": "Rensann39",
+        "profileImageType": "leader",
+        "userVirtualLiveTop10Rankings": []
+      }
+    }
+  ],
+  "rank300": [
+    {
+      "userId": 6515544505597953,
+      "score": 9477564,
+      "rank": 300,
+      "isOwn": false,
+      "name": "チカ",
+      "userCard": {
+        "cardId": 109,
+        "level": 60,
+        "masterRank": 0,
+        "specialTrainingStatus": "done",
+        "defaultImage": "special_training"
+      },
+      "userProfile": {
+        "userId": 6515544505597953,
+        "word": "やりたくてメルトやってる訳じゃないんだよーーーー",
+        "honorId1": 5,
+        "honorLevel1": 2,
+        "honorId2": 108,
+        "honorLevel2": 1,
+        "honorId3": 123,
+        "honorLevel3": 1,
+        "twitterId": "",
         "profileImageType": "leader",
         "userVirtualLiveTop10Rankings": []
       }
@@ -461,28 +461,28 @@
   ],
   "rank400": [
     {
-      "userId": 5175010352869384,
-      "score": 8379404,
+      "userId": 8847693737295873,
+      "score": 8384776,
       "rank": 400,
       "isOwn": false,
-      "name": "ウィゼル",
+      "name": "くろみちゃん",
       "userCard": {
-        "cardId": 111,
+        "cardId": 109,
         "level": 60,
-        "masterRank": 0,
+        "masterRank": 2,
         "specialTrainingStatus": "done",
         "defaultImage": "special_training"
       },
       "userProfile": {
-        "userId": 5175010352869384,
-        "word": "2020年9月30日初日勢！！推しはミクリンこはねちゃん！",
-        "honorId1": 33,
-        "honorLevel1": 3,
-        "honorId2": 146,
-        "honorLevel2": 1,
-        "honorId3": 108,
+        "userId": 8847693737295873,
+        "word": "",
+        "honorId1": 9,
+        "honorLevel1": 1,
+        "honorId2": 5,
+        "honorLevel2": 2,
+        "honorId3": 77,
         "honorLevel3": 1,
-        "twitterId": "ulizeru",
+        "twitterId": "mymykrm",
         "profileImageType": "leader",
         "userVirtualLiveTop10Rankings": []
       }
@@ -490,23 +490,25 @@
   ],
   "rank500": [
     {
-      "userId": 5445409375916040,
-      "score": 7692059,
+      "userId": 5158227575173135,
+      "score": 7704271,
       "rank": 500,
       "isOwn": false,
-      "name": "志歩の愛液",
+      "name": "ルナ",
       "userCard": {
-        "cardId": 111,
+        "cardId": 109,
         "level": 60,
         "masterRank": 0,
         "specialTrainingStatus": "done",
         "defaultImage": "special_training"
       },
       "userProfile": {
-        "userId": 5445409375916040,
-        "word": "Quickly disappear♡ ",
-        "honorId1": 13,
-        "honorLevel1": 3,
+        "userId": 5158227575173135,
+        "word": "瑞希の星3引けなくてワロタ",
+        "honorId1": 77,
+        "honorLevel1": 2,
+        "honorId2": 222,
+        "honorLevel2": 1,
         "twitterId": "",
         "profileImageType": "leader",
         "userVirtualLiveTop10Rankings": []
@@ -515,26 +517,26 @@
   ],
   "rank1000": [
     {
-      "userId": 5810110589509640,
-      "score": 5474250,
+      "userId": 5629029512736770,
+      "score": 5480572,
       "rank": 1000,
       "isOwn": false,
-      "name": "メルト失礼します",
+      "name": "ちんくる",
       "userCard": {
-        "cardId": 4,
+        "cardId": 111,
         "level": 60,
         "masterRank": 0,
         "specialTrainingStatus": "done",
-        "defaultImage": "original"
+        "defaultImage": "special_training"
       },
       "userProfile": {
-        "userId": 5810110589509640,
-        "word": "10/16 ランカン/ガルパ勢でちゅ",
-        "honorId1": 108,
-        "honorLevel1": 1,
-        "honorId2": 123,
+        "userId": 5629029512736770,
+        "word": "音ゲー初めてやります！",
+        "honorId1": 57,
+        "honorLevel1": 2,
+        "honorId2": 126,
         "honorLevel2": 1,
-        "honorId3": 146,
+        "honorId3": 114,
         "honorLevel3": 1,
         "twitterId": "",
         "profileImageType": "leader",
@@ -544,11 +546,11 @@
   ],
   "rank2000": [
     {
-      "userId": 6080363256807435,
-      "score": 3142687,
+      "userId": 5234349079703567,
+      "score": 3144625,
       "rank": 2000,
       "isOwn": false,
-      "name": "土城新垣結衣",
+      "name": "ふに",
       "userCard": {
         "cardId": 111,
         "level": 60,
@@ -557,15 +559,15 @@
         "defaultImage": "special_training"
       },
       "userProfile": {
-        "userId": 6080363256807435,
-        "word": "0.0",
-        "honorId1": 77,
-        "honorLevel1": 1,
-        "honorId2": 114,
-        "honorLevel2": 1,
-        "honorId3": 131,
+        "userId": 5234349079703567,
+        "word": "",
+        "honorId1": 53,
+        "honorLevel1": 2,
+        "honorId2": 13,
+        "honorLevel2": 2,
+        "honorId3": 21,
         "honorLevel3": 1,
-        "twitterId": "",
+        "twitterId": "RIA0903101",
         "profileImageType": "leader",
         "userVirtualLiveTop10Rankings": []
       }
@@ -573,28 +575,28 @@
   ],
   "rank3000": [
     {
-      "userId": 6360317269807104,
-      "score": 2412012,
+      "userId": 5200962419466252,
+      "score": 2412705,
       "rank": 3000,
       "isOwn": false,
-      "name": "かつどん",
+      "name": "MUR",
       "userCard": {
-        "cardId": 15,
+        "cardId": 4,
         "level": 50,
-        "masterRank": 5,
-        "specialTrainingStatus": "done",
-        "defaultImage": "special_training"
+        "masterRank": 0,
+        "specialTrainingStatus": "not_doing",
+        "defaultImage": "original"
       },
       "userProfile": {
-        "userId": 6360317269807104,
-        "word": "レベル上げが大変",
+        "userId": 5200962419466252,
+        "word": "おもちうにょーん",
         "honorId1": 81,
-        "honorLevel1": 2,
-        "honorId2": 33,
+        "honorLevel1": 3,
+        "honorId2": 113,
         "honorLevel2": 1,
-        "honorId3": 37,
+        "honorId3": 145,
         "honorLevel3": 1,
-        "twitterId": "akkatsudon",
+        "twitterId": "",
         "profileImageType": "leader",
         "userVirtualLiveTop10Rankings": []
       }
@@ -602,11 +604,69 @@
   ],
   "rank4000": [
     {
-      "userId": 5218294865383428,
-      "score": 2073711,
+      "userId": 5231530624450563,
+      "score": 2074904,
       "rank": 4000,
       "isOwn": false,
-      "name": "の",
+      "name": "哀れな雨",
+      "userCard": {
+        "cardId": 71,
+        "level": 50,
+        "masterRank": 5,
+        "specialTrainingStatus": "done",
+        "defaultImage": "special_training"
+      },
+      "userProfile": {
+        "userId": 5231530624450563,
+        "word": "ニーゴとVividBad推し",
+        "honorId1": 65,
+        "honorLevel1": 3,
+        "honorId2": 33,
+        "honorLevel2": 3,
+        "honorId3": 57,
+        "honorLevel3": 3,
+        "twitterId": "Raimpathy",
+        "profileImageType": "leader",
+        "userVirtualLiveTop10Rankings": []
+      }
+    }
+  ],
+  "rank5000": [
+    {
+      "userId": 8956674526756874,
+      "score": 1884483,
+      "rank": 5000,
+      "isOwn": false,
+      "name": "らむ",
+      "userCard": {
+        "cardId": 110,
+        "level": 60,
+        "masterRank": 0,
+        "specialTrainingStatus": "done",
+        "defaultImage": "special_training"
+      },
+      "userProfile": {
+        "userId": 8956674526756874,
+        "word": "",
+        "honorId1": 105,
+        "honorLevel1": 1,
+        "honorId2": 93,
+        "honorLevel2": 1,
+        "honorId3": 138,
+        "honorLevel3": 1,
+        "twitterId": "",
+        "profileImageType": "leader",
+        "userVirtualLiveTop10Rankings": []
+      }
+    }
+  ],
+  "rank10000": [
+    {
+      "userId": 5247639327252480,
+      "score": 1333522,
+      "rank": 10000,
+      "isOwn": false,
+      "name": "Kam_Cheong",
       "userCard": {
         "cardId": 109,
         "level": 60,
@@ -615,71 +675,13 @@
         "defaultImage": "special_training"
       },
       "userProfile": {
-        "userId": 5218294865383428,
-        "word": "",
-        "honorId1": 89,
-        "honorLevel1": 1,
-        "honorId2": 37,
+        "userId": 5247639327252480,
+        "word": "啊哈哈",
+        "honorId1": 77,
+        "honorLevel1": 2,
+        "honorId2": 73,
         "honorLevel2": 1,
-        "honorId3": 33,
-        "honorLevel3": 1,
-        "twitterId": "",
-        "profileImageType": "leader",
-        "userVirtualLiveTop10Rankings": []
-      }
-    }
-  ],
-  "rank5000": [
-    {
-      "userId": 5437557567905802,
-      "score": 1884130,
-      "rank": 5000,
-      "isOwn": false,
-      "name": "つゆり",
-      "userCard": {
-        "cardId": 92,
-        "level": 60,
-        "masterRank": 1,
-        "specialTrainingStatus": "done",
-        "defaultImage": "special_training"
-      },
-      "userProfile": {
-        "userId": 5437557567905802,
-        "word": "気軽にTwitterフォロしてくれたら嬉しいです！！",
-        "honorId1": 5,
-        "honorLevel1": 1,
-        "honorId2": 33,
-        "honorLevel2": 1,
-        "honorId3": 73,
-        "honorLevel3": 1,
-        "twitterId": "fiv2exj",
-        "profileImageType": "leader",
-        "userVirtualLiveTop10Rankings": []
-      }
-    }
-  ],
-  "rank10000": [
-    {
-      "userId": 8044882103205897,
-      "score": 1333059,
-      "rank": 10000,
-      "isOwn": false,
-      "name": "慢心大福",
-      "userCard": {
-        "cardId": 109,
-        "level": 60,
-        "masterRank": 3,
-        "specialTrainingStatus": "done",
-        "defaultImage": "special_training"
-      },
-      "userProfile": {
-        "userId": 8044882103205897,
-        "word": "やったか！？",
-        "honorId1": 114,
-        "honorLevel1": 1,
-        "honorId2": 132,
-        "honorLevel2": 1,
-        "honorId3": 133,
+        "honorId3": 65,
         "honorLevel3": 1,
         "twitterId": "",
         "profileImageType": "leader",
@@ -689,26 +691,26 @@
   ],
   "rank20000": [
     {
-      "userId": 5545748025077767,
-      "score": 943857,
+      "userId": 5581865180217353,
+      "score": 944306,
       "rank": 20000,
       "isOwn": false,
-      "name": "ナマコ",
+      "name": "あおたん",
       "userCard": {
-        "cardId": 111,
+        "cardId": 109,
         "level": 60,
-        "masterRank": 1,
+        "masterRank": 0,
         "specialTrainingStatus": "done",
         "defaultImage": "special_training"
       },
       "userProfile": {
-        "userId": 5545748025077767,
-        "word": "引退します。",
-        "honorId1": 131,
-        "honorLevel1": 1,
-        "honorId2": 136,
-        "honorLevel2": 1,
-        "honorId3": 129,
+        "userId": 5581865180217353,
+        "word": "",
+        "honorId1": 1,
+        "honorLevel1": 2,
+        "honorId2": 81,
+        "honorLevel2": 2,
+        "honorId3": 138,
         "honorLevel3": 1,
         "twitterId": "",
         "profileImageType": "leader",
@@ -718,26 +720,26 @@
   ],
   "rank30000": [
     {
-      "userId": 6545948927070221,
-      "score": 787270,
+      "userId": 5136012359725064,
+      "score": 787646,
       "rank": 30000,
       "isOwn": false,
-      "name": "ほち",
+      "name": "ジーオー",
       "userCard": {
-        "cardId": 7,
-        "level": 19,
-        "masterRank": 0,
+        "cardId": 111,
+        "level": 28,
+        "masterRank": 4,
         "specialTrainingStatus": "not_doing",
         "defaultImage": "original"
       },
       "userProfile": {
-        "userId": 6545948927070221,
-        "word": "よろしくお願いします",
-        "honorId1": 5,
-        "honorLevel1": 1,
-        "honorId2": 1,
+        "userId": 5136012359725064,
+        "word": "",
+        "honorId1": 13,
+        "honorLevel1": 3,
+        "honorId2": 37,
         "honorLevel2": 1,
-        "honorId3": 13,
+        "honorId3": 73,
         "honorLevel3": 1,
         "twitterId": "",
         "profileImageType": "leader",
@@ -747,26 +749,26 @@
   ],
   "rank40000": [
     {
-      "userId": 6652912311001095,
-      "score": 689678,
+      "userId": 5280931116437519,
+      "score": 690088,
       "rank": 40000,
       "isOwn": false,
-      "name": "昴",
+      "name": "Eva",
       "userCard": {
-        "cardId": 112,
-        "level": 50,
-        "masterRank": 5,
+        "cardId": 110,
+        "level": 60,
+        "masterRank": 0,
         "specialTrainingStatus": "done",
         "defaultImage": "special_training"
       },
       "userProfile": {
-        "userId": 6652912311001095,
-        "word": "仲良くしよなー！",
-        "honorId1": 65,
+        "userId": 5280931116437519,
+        "word": "",
+        "honorId1": 61,
         "honorLevel1": 1,
-        "honorId2": 69,
+        "honorId2": 45,
         "honorLevel2": 1,
-        "honorId3": 105,
+        "honorId3": 29,
         "honorLevel3": 1,
         "twitterId": "",
         "profileImageType": "leader",
@@ -776,25 +778,27 @@
   ],
   "rank50000": [
     {
-      "userId": 5120150470692866,
-      "score": 618921,
+      "userId": 7432357971763200,
+      "score": 619401,
       "rank": 50000,
       "isOwn": false,
-      "name": ".",
+      "name": "おスギ",
       "userCard": {
         "cardId": 110,
-        "level": 60,
+        "level": 59,
         "masterRank": 0,
         "specialTrainingStatus": "done",
         "defaultImage": "special_training"
       },
       "userProfile": {
-        "userId": 5120150470692866,
+        "userId": 7432357971763200,
         "word": "",
-        "honorId1": 77,
-        "honorLevel1": 2,
-        "honorId2": 93,
-        "honorLevel2": 2,
+        "honorId1": 1,
+        "honorLevel1": 1,
+        "honorId2": 129,
+        "honorLevel2": 1,
+        "honorId3": 105,
+        "honorLevel3": 1,
         "twitterId": "",
         "profileImageType": "leader",
         "userVirtualLiveTop10Rankings": []
@@ -803,26 +807,26 @@
   ],
   "rank100000": [
     {
-      "userId": 5245457295675405,
-      "score": 415522,
+      "userId": 5587706226982924,
+      "score": 415739,
       "rank": 100000,
       "isOwn": false,
-      "name": "樹",
+      "name": "ぴんく@初心者",
       "userCard": {
-        "cardId": 9,
-        "level": 20,
-        "masterRank": 0,
-        "specialTrainingStatus": "not_doing",
-        "defaultImage": "original"
+        "cardId": 63,
+        "level": 50,
+        "masterRank": 5,
+        "specialTrainingStatus": "done",
+        "defaultImage": "special_training"
       },
       "userProfile": {
-        "userId": 5245457295675405,
-        "word": "",
-        "honorId1": 127,
+        "userId": 5587706226982924,
+        "word": "類くん推してます。親指勢。人差し指練習中。",
+        "honorId1": 218,
         "honorLevel1": 1,
-        "honorId2": 105,
-        "honorLevel2": 1,
-        "honorId3": 133,
+        "honorId2": 61,
+        "honorLevel2": 3,
+        "honorId3": 53,
         "honorLevel3": 1,
         "twitterId": "",
         "profileImageType": "leader",
